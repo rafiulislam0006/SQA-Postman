@@ -1,1 +1,1 @@
-# SQA-Jmeter
+# SQA-Postman
